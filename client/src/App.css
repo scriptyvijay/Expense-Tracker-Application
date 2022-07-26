@@ -1,0 +1,12 @@
+.App {
+	text-align: center;
+	padding: 4em 0;
+}
+
+.bg-yellow {
+	background-color: var(--color-yellow);
+}
+
+.bg-purple {
+	background-color: var(--color-purple);
+}
